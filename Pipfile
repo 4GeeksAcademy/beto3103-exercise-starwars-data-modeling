@@ -9,6 +9,7 @@ verify_ssl = true
 sqlalchemy = "*"
 eralchemy2 = "*"
 
+
 [requires]
 python_version = "3.10"
 
